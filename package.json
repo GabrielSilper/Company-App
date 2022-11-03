@@ -1,0 +1,17 @@
+{
+  "name": "company-app",
+  "version": "1.0.0",
+  "description": "Personal project to manager a company, but a light way to do it and less complexity, using TDD and a some Object Oriented Programming.",
+  "main": "./src/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gabriel Silper",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
